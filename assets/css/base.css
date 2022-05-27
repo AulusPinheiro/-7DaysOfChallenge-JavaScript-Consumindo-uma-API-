@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;500;600&display=swap');
+
+:root {
+  /*cores bg e fonte*/
+  --bg-color: #17162E;
+  --color-font:#FFFFFF;
+  --pc-holder: #8A8A8A;
+  --input-bg: #E5E5E5;
+  /*font-family*/
+  --familia-corpo: 'Kumbh Sans', sans-serif;
+  /*tamanho fonte*/
+  --font-titulo: 2rem;/*36px*/
+  --font-descricao: 1.1rem; /*18px*/
+  /*peso da fonte*/
+  --peso-titulo: 600;
+  --peso-descricao: 500;
+  --peso-detalhes: 400;
+
+  /*icones*/
+  --estrela:'\f005';
+  --coracao-solido:'\f004';
+  --coracao-regular:'\f004';/*fa-regular*/
+  --pesquisar: '\f002';
+
+}
